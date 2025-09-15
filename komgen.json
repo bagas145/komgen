@@ -1,213 +1,212 @@
 [
   {
-    "variable": "likely_pathogenic",
-    "value": 62.38,
-    "group": "chr1"
+    "variable": "ARID1A",
+    "value": 0.6238,
+    "group": "chr1:26697287_T>G"
   },
   {
-    "variable": "likely_benign",
-    "value": 10.04,
-    "group": "chr1"
+    "variable": "PTCH2",
+    "value": 0.1004,
+    "group": "chr1:44823158_C>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 32.95,
-    "group": "chr2"
+    "variable": "MSH6",
+    "value": 0.3295,
+    "group": "chr2:47783492_A>C"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 98.05,
-    "group": "chr2"
+    "variable": "IDH1",
+    "value": 0.9805,
+    "group": "chr2:208248484_C>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.34,
-    "group": "chr2"
+    "variable": "D2HGDH",
+    "value": 0.0734,
+    "group": "chr2:241751311_G>A"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 99.84,
-    "group": "chr3"
+    "variable": "CTNNB1",
+    "value": 0.9984,
+    "group": "chr3:41233385_C>T"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 99.83,
-    "group": "chr4"
+    "variable": "FGFR3",
+    "value": 0.9983,
+    "group": "chr4:1806305_G>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.72,
-    "group": "chr4"
+    "variable": "HTT",
+    "value": 0.0772,
+    "group": "chr4:3074938_A>C"
   },
   {
-    "variable": "likely_benign",
-    "value": 5.92,
-    "group": "chr4"
+    "variable": "PDGFRA",
+    "value": 0.0592,
+    "group": "chr4:54261247_G>A"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr5"
+    "variable": "MCC",
+    "value": 0.5,
+    "group": "chr5:113488342_T>C"
   },
   {
-    "variable": "likely_benign",
-    "value": 6.18,
-    "group": "chr6"
+    "variable": "BRPF3",
+    "value": 0.0618,
+    "group": "chr6:36225279_T>G"
   },
   {
-    "variable": "ambiguous",
-    "value": 48.8,
-    "group": "chr6"
+    "variable": "ARID1B",
+    "value": 0.488,
+    "group": "chr6:156935479_A>G"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.59,
-    "group": "chr7"
+    "variable": "MET",
+    "value": 0.0759,
+    "group": "chr7:116700208_A>G"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 98.97,
-    "group": "chr7"
+    "variable": "SMO",
+    "value": 0.9897,
+    "group": "chr7:129210500_G>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.17,
-    "group": "chr8"
+    "variable": "MYC",
+    "value": 0.0717,
+    "group": "chr8:127738361_G>C"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr9"
+    "variable": "LURAP1L",
+    "value": 0.5,
+    "group": "chr9:12775890_A>G"
   },
   {
-    "variable": "likely_benign",
-    "value": 11.45,
-    "group": "chr9"
+    "variable": "NTRK2",
+    "value": 0.1145,
+    "group": "chr9:84670949_C>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 12.74,
-    "group": "chr9"
+    "variable": "PTCH1",
+    "value": 0.1274,
+    "group": "chr9:95447312_G>A"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr9"
+    "variable": "KLF4",
+    "value": 0.5,
+    "group": "chr9:107485788_G>C"
   },
   {
-    "variable": "likely_benign",
-    "value": 13.09,
-    "group": "chr9"
+    "variable": "TSC1",
+    "value": 0.1309,
+    "group": "chr9:132925607_A>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 29.77,
-    "group": "chr9"
+    "variable": "NOTCH1",
+    "value": 0.2977,
+    "group": "chr9:136501766_C>T"
   },
   {
-    "variable": "ambiguous",
-    "value": 47.08,
-    "group": "chr10"
+    "variable": "FGFR2",
+    "value": 0.4708,
+    "group": "chr10:121551331_C>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 12.17,
-    "group": "chr11"
+    "variable": "ZFTA",
+    "value": 0.1217,
+    "group": "chr11:63765899_A>C"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 73.03,
-    "group": "chr12"
+    "variable": "KMT2D",
+    "value": 0.7303,
+    "group": "chr12:49051215_C>A"
   },
   {
-    "variable": "ambiguous",
-    "value": 39.29,
-    "group": "chr12"
+    "variable": "SMARCD1",
+    "value": 0.3929,
+    "group": "chr12:50087406_C>T"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr12"
+    "variable": "PHLDA1",
+    "value": 0.5,
+    "group": "chr12:76031172_C>-"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr12"
+    "variable": "ATXN2",
+    "value": 0.5,
+    "group": "chr12:111598995_GC>-"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr12"
+    "variable": "HNF1A",
+    "value": 0.5,
+    "group": "chr12:120994314_->C"
   },
   {
-    "variable": "likely_benign",
-    "value": 6.26,
-    "group": "chr13"
+    "variable": "BRCA2",
+    "value": 0.0626,
+    "group": "chr13:32340099_C>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.68,
-    "group": "chr13"
+    "variable": "RB1",
+    "value": 0.0768,
+    "group": "chr13:48381415_G>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 11.16,
-    "group": "chr14"
+    "variable": "DICER1",
+    "value": 0.1116,
+    "group": "chr14:95124419_G>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.94,
-    "group": "chr16"
+    "variable": "TSC2",
+    "value": 0.0794,
+    "group": "chr16:2088275_C>A"
   },
   {
-    "variable": "ambiguous",
-    "value": 39.97,
-    "group": "chr16"
+    "variable": "CREBBP",
+    "value": 0.3997,
+    "group": "chr16:3731412_T>G"
   },
   {
-    "variable": "unknown",
-    "value": 50,
-    "group": "chr16"
+    "variable": "GSE1",
+    "value": 0.5,
+    "group": "chr16:85654987_T>G"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.24,
-    "group": "chr17"
+    "variable": "TP53",
+    "value": 0.0724,
+    "group": "chr17:7676154_G>C"
   },
   {
-    "variable": "likely_benign",
-    "value": 11.12,
-    "group": "chr17"
+    "variable": "NF1",
+    "value": 0.1112,
+    "group": "chr17:31340628_C>T"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 99.29,
-    "group": "chr17"
+    "variable": "PPM1D",
+    "value": 0.9929,
+    "group": "chr17:60623728_G>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 7.7,
-    "group": "chr19"
+    "variable": "SMARCA4",
+    "value": 0.077,
+    "group": "chr19:10996246_G>A"
   },
   {
-    "variable": "likely_benign",
-    "value": 17.92,
-    "group": "chr19"
+    "variable": "NOTCH3",
+    "value": 0.1792,
+    "group": "chr19:15174335_G>A"
   },
   {
-    "variable": "ambiguous",
-    "value": 41.07,
-    "group": "chr22"
+    "variable": "LZTR1",
+    "value": 0.4107,
+    "group": "chr22:20995871_A>T"
   },
   {
-    "variable": "likely_pathogenic",
-    "value": 57.53,
-    "group": "chrX"
+    "variable": "DDX3X",
+    "value": 0.5753,
+    "group": "chrX:41344260_C>T"
   },
   {
-    "variable": "likely_benign",
-    "value": 27.3,
-    "group": "chrX"
+    "variable": "ATRX",
+    "value": 0.273,
+    "group": "chrX:77508509_G>A"
   }
-
 ]
