@@ -1,0 +1,212 @@
+[
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.6238,
+    "group": "chr1"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1004,
+    "group": "chr1"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.3295,
+    "group": "chr2"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.9805,
+    "group": "chr2"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0734,
+    "group": "chr2"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.9984,
+    "group": "chr3"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.9983,
+    "group": "chr4"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0772,
+    "group": "chr4"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0592,
+    "group": "chr4"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr5"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0618,
+    "group": "chr6"
+  },
+  {
+    "variable": "ambiguous",
+    "value": 0.488,
+    "group": "chr6"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0759,
+    "group": "chr7"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.9897,
+    "group": "chr7"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0717,
+    "group": "chr8"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr9"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1145,
+    "group": "chr9"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1274,
+    "group": "chr9"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr9"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1309,
+    "group": "chr9"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.2977,
+    "group": "chr9"
+  },
+  {
+    "variable": "ambiguous",
+    "value": 0.4708,
+    "group": "chr10"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1217,
+    "group": "chr11"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.7303,
+    "group": "chr12"
+  },
+  {
+    "variable": "ambiguous",
+    "value": 0.3929,
+    "group": "chr12"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr12"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr12"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr12"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0626,
+    "group": "chr13"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0768,
+    "group": "chr13"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1116,
+    "group": "chr14"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0794,
+    "group": "chr16"
+  },
+  {
+    "variable": "ambiguous",
+    "value": 0.3997,
+    "group": "chr16"
+  },
+  {
+    "variable": "unknown",
+    "value": 0.5,
+    "group": "chr16"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.0724,
+    "group": "chr17"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1112,
+    "group": "chr17"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.9929,
+    "group": "chr17"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.077,
+    "group": "chr19"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.1792,
+    "group": "chr19"
+  },
+  {
+    "variable": "ambiguous",
+    "value": 0.4107,
+    "group": "chr22"
+  },
+  {
+    "variable": "likely_pathogenic",
+    "value": 0.5753,
+    "group": "chrX"
+  },
+  {
+    "variable": "likely_benign",
+    "value": 0.273,
+    "group": "chrX"
+  }
+]
