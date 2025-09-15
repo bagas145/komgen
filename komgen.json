@@ -1,212 +1,213 @@
 [
   {
     "variable": "likely_pathogenic",
-    "value": 0.6238,
+    "value": 62.38,
     "group": "chr1"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1004,
+    "value": 10.04,
     "group": "chr1"
   },
   {
     "variable": "likely_benign",
-    "value": 0.3295,
+    "value": 32.95,
     "group": "chr2"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.9805,
+    "value": 98.05,
     "group": "chr2"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0734,
+    "value": 7.34,
     "group": "chr2"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.9984,
+    "value": 99.84,
     "group": "chr3"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.9983,
+    "value": 99.83,
     "group": "chr4"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0772,
+    "value": 7.72,
     "group": "chr4"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0592,
+    "value": 5.92,
     "group": "chr4"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr5"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0618,
+    "value": 6.18,
     "group": "chr6"
   },
   {
     "variable": "ambiguous",
-    "value": 0.488,
+    "value": 48.8,
     "group": "chr6"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0759,
+    "value": 7.59,
     "group": "chr7"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.9897,
+    "value": 98.97,
     "group": "chr7"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0717,
+    "value": 7.17,
     "group": "chr8"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr9"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1145,
+    "value": 11.45,
     "group": "chr9"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1274,
+    "value": 12.74,
     "group": "chr9"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr9"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1309,
+    "value": 13.09,
     "group": "chr9"
   },
   {
     "variable": "likely_benign",
-    "value": 0.2977,
+    "value": 29.77,
     "group": "chr9"
   },
   {
     "variable": "ambiguous",
-    "value": 0.4708,
+    "value": 47.08,
     "group": "chr10"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1217,
+    "value": 12.17,
     "group": "chr11"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.7303,
+    "value": 73.03,
     "group": "chr12"
   },
   {
     "variable": "ambiguous",
-    "value": 0.3929,
+    "value": 39.29,
     "group": "chr12"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr12"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr12"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr12"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0626,
+    "value": 6.26,
     "group": "chr13"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0768,
+    "value": 7.68,
     "group": "chr13"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1116,
+    "value": 11.16,
     "group": "chr14"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0794,
+    "value": 7.94,
     "group": "chr16"
   },
   {
     "variable": "ambiguous",
-    "value": 0.3997,
+    "value": 39.97,
     "group": "chr16"
   },
   {
     "variable": "unknown",
-    "value": 0.5,
+    "value": 50,
     "group": "chr16"
   },
   {
     "variable": "likely_benign",
-    "value": 0.0724,
+    "value": 7.24,
     "group": "chr17"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1112,
+    "value": 11.12,
     "group": "chr17"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.9929,
+    "value": 99.29,
     "group": "chr17"
   },
   {
     "variable": "likely_benign",
-    "value": 0.077,
+    "value": 7.7,
     "group": "chr19"
   },
   {
     "variable": "likely_benign",
-    "value": 0.1792,
+    "value": 17.92,
     "group": "chr19"
   },
   {
     "variable": "ambiguous",
-    "value": 0.4107,
+    "value": 41.07,
     "group": "chr22"
   },
   {
     "variable": "likely_pathogenic",
-    "value": 0.5753,
+    "value": 57.53,
     "group": "chrX"
   },
   {
     "variable": "likely_benign",
-    "value": 0.273,
+    "value": 27.3,
     "group": "chrX"
   }
+
 ]
